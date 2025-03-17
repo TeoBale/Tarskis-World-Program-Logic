@@ -1,3 +1,3 @@
-# Tarski's World Python
+# Tarski's World Program Logic
 
-Tarski's World software logic written in Python as demonstration.
+Tarski's World software logic written in both Python and JavaScript as a demonstration.
